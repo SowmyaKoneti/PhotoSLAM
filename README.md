@@ -1,10 +1,7 @@
 # Photo-SLAM
 ### [Homepage](https://huajianup.github.io/research/Photo-SLAM/) | [Paper](https://arxiv.org/abs/2311.16728)
 
-**Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras** <br>
-[Huajian Huang](https://huajianup.github.io)<sup>1</sup>, [Longwei Li](https://github.com/liquorleaf)<sup>2</sup>, Hui Cheng<sup>2</sup>, and [Sai-Kit Yeung](https://saikit.org/)<sup>1</sup> <br>
-The Hong Kong University of Science and Technology<sup>1</sup>, Sun Yat-Sen University<sup>2</sup> <br>
-In Proceedings of Computer Vision and Pattern Recognition Conference (CVPR), 2024<br>
+**Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras** 
 ![image](https://huajianup.github.io/thumbnails/Photo-SLAM_v2.gif "photo-slam")
 
 
