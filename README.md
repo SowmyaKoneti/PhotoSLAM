@@ -7,10 +7,6 @@
 
 ## Prerequisites
 
-### (Optional) Using Docker
-
-[#2@XuYinzhe](https://github.com/HuajianUP/Photo-SLAM/issues/2#issuecomment-2089933703) provides a Docker example.
-
 ### Dependencies
 
 ```
